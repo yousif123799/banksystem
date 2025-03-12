@@ -1,0 +1,4 @@
+D:\c#\Bank_system\obj\Debug\net9.0\Bank_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Bank_system\obj\Debug\net9.0\Bank_system.AssemblyInfoInputs.cache
+D:\c#\Bank_system\obj\Debug\net9.0\Bank_system.AssemblyInfo.cs
+D:\c#\Bank_system\obj\Debug\net9.0\Bank_system.csproj.CoreCompileInputs.cache

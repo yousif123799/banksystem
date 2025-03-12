@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JbKxdkmA7ss=",
+  "success": true,
+  "projectFilePath": "D:\\c#\\Bank_system\\Bank_system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACC\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.0\\microsoft.dotnet.ilcompiler.9.0.0.nupkg.sha512",
+    "C:\\Users\\ACC\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0\\microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
+    "C:\\Users\\ACC\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
